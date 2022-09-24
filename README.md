@@ -5,7 +5,6 @@ A passionate Web developer. I enjoy to build beautiful websites with latest tech
 📫 How to reach me Jus10Lopez@yahoo.com
 
 Job listing APP
-Post and view job listings
 
 
 ▶ Languages and Tools:
